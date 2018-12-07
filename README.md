@@ -5,8 +5,8 @@ Paragraph of project description goes here
 ## Authors
 
 
-* **Russ Delos Santos**(https://www.linkedin.com/in/russdelossantos/)
+* [**Russ Delos Santos**](https://www.linkedin.com/in/russdelossantos/)
 
-* **Jim Reynoso**(https://www.facebook.com/jim.reynoso)
+* [**Jim Reynoso**](https://www.facebook.com/jim.reynoso)
 
 
